@@ -1,5 +1,14 @@
 # Employee-Address-mapping
 ## EmployeeController
+
+## Requirements
+To run this project, you need to have the following installed on your system:
+- Java
+- Spring Boot
+- Hibernate
+- MySQL
+- Swagger
+
 ## Methods:
 GET /employees - get all employees
 
