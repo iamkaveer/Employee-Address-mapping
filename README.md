@@ -23,3 +23,5 @@ PUT /addresses/{id} - update an address by id
 
 DELETE /addresses/{id} - delete an address by id
 
+### The Employee entity class has a one-to-one mapping with the Address entity class. This is achieved by adding a @OneToOne annotation to the address attribute in the Employee class.
+
